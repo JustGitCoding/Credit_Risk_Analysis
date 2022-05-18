@@ -1,4 +1,4 @@
-# Automating Loan Approvals
+# Machine Learning - Automating Loan Approvals
 
 ## Overview:
 Utilize various Machine Learning Models to analyze the credit worthiness of loan applicants.
